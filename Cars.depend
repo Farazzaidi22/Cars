@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1527963210 source:f:\oop final\cars\cars.cpp
+	<iostream>
+	"Cars.h"
+
+1527966099 f:\oop final\cars\cars.h
+	<iostream>
+
+1527966046 source:f:\oop final\cars\main.cpp
+	<iostream>
+	"Cars.h"
+	"Showroom.h"
+
+1527966167 f:\oop final\cars\showroom.h
+	<iostream>
+	"Cars.h"
+
+1527966028 source:f:\oop final\cars\showroom.cpp
+	<iostream>
+	"Showroom.h"
+	"Cars.h"
+
